@@ -1,3 +1,4 @@
+<img  src="[https://cdn.svgporn.com/logos/html-5.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnurag8305&psig=AOvVaw3XemApRpV2-RGpyXbrla_c&ust=1704811155836000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj3hNGCzoMDFQAAAAAdAAAAABAD)">
 <h1 align="center">Hi 👋, I'm Vivek Kumar Gupta</h1>
 <h3 align="center">A frontend developer from India. I'm a passionate and driven student currently pursuing my education in Information Technology at KIET Group of institution . With a strong interest in technology ,I aim to contribute to the future of technology and innovation . I'm an enthusiastic and adventure-loving individual who enjoy exploring new horizon, making every journey a learning experience . I love travelling also .</h3>
 
