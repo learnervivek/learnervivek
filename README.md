@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Gupta</h1>
 <h3 align="center">A frontend developer from India. I'm a passionate and driven student currently pursuing my education in Information Technology at KIET Group of institution . With a strong interest in technology ,I aim to contribute to the future of technology and innovation . I'm an enthusiastic and adventure-loving individual who enjoy exploring new horizon, making every journey a learning experience . I love travelling also .</h3>
 
-- 🌱 I’m currently learning **JavaScript **
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **C,HTML,CSS,JavaScript **
+- 💬 Ask me about **C,HTML,CSS,JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
