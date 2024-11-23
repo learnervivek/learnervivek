@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **C,C++,HTML,CSS,JavaScript**
+- 💬 Ask me about **C,C++,HTML,CSS,JavaScript,React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
