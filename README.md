@@ -1,6 +1,6 @@
 # Hi there, I'm Vivek Kumar Gupta 👋 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=engineeringduration&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" />
+  <img src="https://komarev.com/ghpvc/?username=learnervivek&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" />
 </p>
 
 <div align="center">
@@ -15,21 +15,9 @@ A frontend developer from India. I'm a passionate and driven student currently p
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=engineeringduration&theme=algolia&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 💡 What I Do
 
 - 🖥️ **Full-Stack Web Development** | Learning modern web technologies like **React & Express.js**.
-- 📊 **Finance & Business** | Certified in **Corporate Finance (NPTEL)**; passionate about fintech innovations.
-
 ---
 
 ## 🛠 Tech Stack
@@ -55,6 +43,20 @@ Sharpening problem-solving skills through daily practice:
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/learnervivek01)
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=learnervivek&theme=algolia&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+## 🏆 Holopin Badges
+
+[![An image of @learnervivek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/learnervivek)](https://holopin.io/@learnervivek)
+---
+
 
 
 ## 📢 Let's Connect!
