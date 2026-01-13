@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-A frontend developer from India. I'm a passionate and driven student currently pursuing my education in Information Technology at KIET Group of institution . With a strong interest in technology ,I aim to contribute to the future of technology and innovation . I'm an enthusiastic and adventure-loving individual who enjoy exploring new horizon, making every journey a learning experience . I love travelling also .
+A fullstack developer from India. I'm a passionate and driven student currently pursuing my education in Information Technology at KIET Group of institution . With a strong interest in technology ,I aim to contribute to the future of technology and innovation . I'm an enthusiastic and adventure-loving individual who enjoy exploring new horizon, making every journey a learning experience . I love travelling also .
 
 ---
 
@@ -23,14 +23,14 @@ A frontend developer from India. I'm a passionate and driven student currently p
 ## 🛠 Tech Stack
 
 - **Programming:**  C++,JavaScript, Python,C 
-- **Web Development:** React.js,HTML,CSS, Javascript 
-- **Version Control:** Git & GitHub
+- **Web Development:** React.js,Node.js,Express.js,EJS,MongoDB, JavaScript,CSS, HTML,RESTAPIs,JWT Authentication, Bootstrap,TailwindCSS,ShadCN UI
+- **Developer Tools:** Git & GitHub,Postman,MongoDB Atlas,VS Code
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔍 Advanced React.js features  
+- 🔍 Advanced Backend Development 
 - 🌐 Open-Source Contributions
 
 ---
