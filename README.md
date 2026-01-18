@@ -17,7 +17,7 @@ A fullstack developer from India. I'm a passionate and driven student currently 
 
 ## 💡 What I Do
 
-- 🖥️ **Full-Stack Web Development** | Learning modern web technologies like **React & Express.js**.
+- 🖥️ **Full-Stack Web Development** | Learning modern web technologies like **Next.js .
 ---
 
 ## 🛠 Tech Stack
