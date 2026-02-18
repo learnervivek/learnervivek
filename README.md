@@ -57,12 +57,6 @@ Sharpening problem-solving skills through daily practice:
 [![An image of @learnervivek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/learnervivek)](https://holopin.io/@learnervivek)
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/learnervivek/learnervivek/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
 
 ## 📢 Let's Connect!
 
