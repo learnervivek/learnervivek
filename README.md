@@ -56,7 +56,8 @@ Sharpening problem-solving skills through daily practice:
 
 [![An image of @learnervivek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/learnervivek)](https://holopin.io/@learnervivek)
 ---
-
+<img src="https://raw.githubusercontent.com/Abhilash-0322/Abhilash-0322/output/snake.svg" alt="Snake animation" />
+<p align="left">  </p>
 
 ## 📢 Let's Connect!
 
